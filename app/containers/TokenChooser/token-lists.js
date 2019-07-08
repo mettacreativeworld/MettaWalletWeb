@@ -38,22 +38,6 @@ export const TokenSelection = {
   ],
   'Main Net': [
     {
-      symbol: 'mtta',
-      name: 'Metta Creative World',
-      contractAddress: '0x0df6b23127cfd1c931000cbb452a0d75a716c3cd',
-      decimals: 2,
-      description: 'Promoting sustainability through collaboraive arts experiences ',
-      url: 'https://mettacreative.world/',
-    },
-    {
-      symbol: 'skeys',
-      name: 'Sustainy.Org',
-      contractAddress: '0xe70553c0833f6564f552f04d86925877be3ba29b',
-      decimals: 0,
-      description: 'Building a sustainable future',
-      url: 'https://sustainy.org/',
-    },
-    {
       symbol: 'trx',
       name: 'Tron',
       contractAddress: '0xf230b790e05390fc8295f4d3f60332c93bed42e2',
