@@ -22,7 +22,7 @@ font-weight: 400;
 
 const IMG = styled.img`
 width : 300px;
-height : 400px;
+height : 300px;
 `;
 
 function WelcomeText() {
