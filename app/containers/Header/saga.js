@@ -383,7 +383,7 @@ function* watchPollData() {
  */
 export function* getRates() {
   // const requestURL = 'https://api.coinmarketcap.com/v1/ticker/ethereum/?convert=EUR';
-  const requestURL = 'https://api.coinmarketcap.com/v1/ticker/?convert=EUR';
+  const requestURL = 'https://pro-api.coinmarketcap.com/v1/ticker/?convert=EUR';
   try {
     let dummyRates = [{ // for testin in online = false mode
       id: 'ethereum',
