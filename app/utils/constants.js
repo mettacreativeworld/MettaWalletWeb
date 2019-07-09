@@ -33,8 +33,8 @@ export const defaultNetwork = 'Ropsten Testnet';
 export const localStorageKey = 'ks';
 
 // addresses:
-export const website = 'https://eth-hot-wallet.com';
-export const github = 'https://mettacreative.world';
+export const website = 'https://mettacreative.world';
+export const github = 'https://github.com/mettacreativeworld/MettaWalletWeb';
 
 // APIs:
 // export const checkFaucetAddress = 'http://localhost:3000/status';
