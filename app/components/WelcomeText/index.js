@@ -20,7 +20,7 @@ color: #b9b9b9;
 font-weight: 400;
 `;
 
-const img = styled.img`
+const IMG = styled.img`
 width : 300px;
 height : 400px;
 `;
@@ -29,7 +29,7 @@ function WelcomeText() {
   return (
     <div>
       <br />
-      <img src="https://static1.squarespace.com/static/58308d4db8a79b98accccf43/t/59c3fb80ccc5c5f8b9dd4892/1561754249231/?format=1500w"></img>
+      <IMG src="https://static1.squarespace.com/static/58308d4db8a79b98accccf43/t/59c3fb80ccc5c5f8b9dd4892/1561754249231/?format=1500w"/>
       <H1>Welcome to <b>Metta Creative Wallet</b> <br />To begin, create or restore Ethereum wallet<br /></H1>
       <H2>
         <b>मेत्ता (mettā):</b>  loving kindness; benevolence.<br />
