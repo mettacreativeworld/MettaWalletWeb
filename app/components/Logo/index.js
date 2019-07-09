@@ -27,7 +27,7 @@ function Logo() {
     <Div>
       <Img alt="logo" src={walletLogo} />
       <a href={website}>
-      Metta Creative Wallet
+      
       </a>
     </Div>
   );
