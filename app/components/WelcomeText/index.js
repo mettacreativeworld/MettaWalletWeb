@@ -23,11 +23,14 @@ font-weight: 400;
 function WelcomeText() {
   return (
     <div>
-      <H1>Welcome to ETH Hot Wallet <br />To begin, create or restore Ethereum wallet<br /></H1>
+      <H1>Welcome to <b>Metta Creative Wallet</b> <br />To begin, create or restore Ethereum wallet<br /></H1>
       <H2>
-        ETH Hot wallet is a zero client. Connection to Ethereum network is made via infura / local node. <br />
+        <b>मेत्ता (mettā):</b>  loving kindness; benevolence.
+        Our mission is to connect and inspire a mettā-driven community to live more sustainably through collaborative arts experiences.<br />
+        Metta Creative Wallet is a non coustodial client application which works on ethereum via infura. <br />
         Keystore is encrypted using the password. When the wallet is locked, you can only view balances. <br />
-        All keys are saved inside the browser and never sent.
+        All keys are saved inside the users browser and never sent. Users can also connect to their local ethereum client.
+
       </H2>
     </div>
   );
