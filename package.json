@@ -1,10 +1,10 @@
 {
-  "name": "eth-hot-wallet",
+  "name": "MettaCreativeWeb",
   "version": "0.6.0",
-  "description": "Ethereum and ERC20 Hot Wallet",
+  "description": "Metta Creative Wallet",
   "repository": {
     "type": "git",
-    "url": "git://github.com/PaulLaux/eth-hot-wallet.git"
+    "url": "git://github.com/mettacreativeworld/MettaWalletWeb.git"
   },
   "engines": {
     "npm": ">=3",
