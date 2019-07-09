@@ -1,7 +1,7 @@
 /* to create sticky footer, height need to be coordinated between content and footer */
 import styled from 'styled-components';
 
-const height = 60;
+const height = 40;
 
 // sticky footer height determined by param
 export const Content = styled.div`

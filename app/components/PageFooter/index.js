@@ -30,7 +30,7 @@ function PageFooter() {
     <Footer>
       <Row>
         <Col sm={12} xs={24}>
-          {'Metta Creative Wallet - '}
+          {'Metta Creative - '}
           <a href={github} target="_blank" rel="noopener">
             Collaborate and create the future
           </a>       
