@@ -25,7 +25,7 @@ function WelcomeText() {
     <div>
       <H1>Welcome to <b>Metta Creative Wallet</b> <br />To begin, create or restore Ethereum wallet<br /></H1>
       <H2>
-        <b>मेत्ता (mettā):</b>  loving kindness; benevolence.
+        <b>मेत्ता (mettā):</b>  loving kindness; benevolence.<br />
         Our mission is to connect and inspire a mettā-driven community to live more sustainably through collaborative arts experiences.<br />
         Metta Creative Wallet is a non coustodial client application which works on ethereum via infura. <br />
         Keystore is encrypted using the password. When the wallet is locked, you can only view balances. <br />
