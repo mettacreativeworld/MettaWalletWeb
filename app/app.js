@@ -81,6 +81,8 @@ import '!file-loader?name=token-icons/[name].[ext]!./images/token-icons/salt.png
 import '!file-loader?name=token-icons/[name].[ext]!./images/token-icons/symb.png';
 import '!file-loader?name=token-icons/[name].[ext]!./images/token-icons/trx.png';
 import '!file-loader?name=token-icons/[name].[ext]!./images/token-icons/zrx.png';
+import '!file-loader?name=token-icons/[name].[ext]!./images/token-icons/mtta.png';
+import '!file-loader?name=token-icons/[name].[ext]!./images/token-icons/skeys.png';
 
 import configureStore from './store';
 
