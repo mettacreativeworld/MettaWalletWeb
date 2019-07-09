@@ -16,7 +16,7 @@ const Div = styled.div`
 `;
 
 const Img = styled.img`
-  height: 80px;
+  height: 60px;
   line-height: 80px;
   width: 200px;
   margin-right: 10px;
