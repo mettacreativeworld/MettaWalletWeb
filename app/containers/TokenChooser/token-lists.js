@@ -38,6 +38,22 @@ export const TokenSelection = {
   ],
   'Main Net': [
     {
+      symbol: 'mtta',
+      name: 'Metta Creative',
+      contractAddress: '0x0df6b23127cfd1c931000cbb452a0d75a716c3cd',
+      decimals: 2,
+      description: 'Our mission is to connect and inspire a mettā-driven community to live more sustainably through collaborative arts experiences.',
+      url: 'https://mettacreative.world/',
+    },
+    {
+      symbol: 'skeys',
+      name: 'Sustainy',
+      contractAddress: '0xe70553c0833f6564f552f04d86925877be3ba29b',
+      decimals: 0,
+      description: 'Sustainy is a cooperative; building a web and mobile app with the ultimate mission to help sustain indefinitely our Society and Earth. We accomplish our ideal outcome by helping users consume food strategically, sustainably, and collaboratively.',
+      url: 'https://sustainy.org/',
+    },
+    {
       symbol: 'trx',
       name: 'Tron',
       contractAddress: '0xf230b790e05390fc8295f4d3f60332c93bed42e2',
