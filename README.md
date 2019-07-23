@@ -1,9 +1,7 @@
 # MettaWalletWeb
 Metta Creative wallet
 
-Set up of the wallet is quite straight forward
 
-install 
 ```
 sudo apt-get update
 
