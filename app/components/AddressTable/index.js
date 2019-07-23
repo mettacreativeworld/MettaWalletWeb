@@ -161,6 +161,7 @@ function AddressTable(props) {
     addressMap,
     tokenDecimalsMap,
     onShowSendToken,
+    onShowReceiveToken,
     exchangeRates,
     onSelectCurrency,
     convertTo,
@@ -206,6 +207,7 @@ function AddressTable(props) {
             obj.props.rowSpan = Object.keys(tokenDecimalsMap).length || 2;
           }
           return obj;
+          
         }}
       />
       {/* <Column
@@ -268,6 +270,7 @@ function AddressTable(props) {
           </span>
         )}
       />
+      
     </AddrTable >
   );
 }
@@ -276,6 +279,7 @@ AddressTable.propTypes = {
   addressMap: PropTypes.oneOfType([PropTypes.object, PropTypes.bool]),
   tokenDecimalsMap: PropTypes.oneOfType([PropTypes.bool, PropTypes.object]),
   onShowSendToken: PropTypes.func,
+  onShowReceiveToken:PropTypes.func,
   exchangeRates: PropTypes.object,
   onSelectCurrency: PropTypes.func,
   convertTo: PropTypes.oneOfType([PropTypes.string, PropTypes.bool]),

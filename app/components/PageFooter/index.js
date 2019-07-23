@@ -14,7 +14,7 @@ import { StickyFooter } from './sticky';
 
 const Footer = StickyFooter.extend`
   textAlign: center;
-  background: #efeeee;
+  background: #a9bed233;
   color: #5a5a5a;
   padding: 10px;
   font-size: 14px;
